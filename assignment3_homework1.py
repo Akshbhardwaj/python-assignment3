@@ -7,5 +7,5 @@ def fact(n):
     else:
         return n*(fact(n-1))
 
-ru=fact(t)
-print(ru)
+ans=fact(t)
+print(ans)
